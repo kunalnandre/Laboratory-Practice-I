@@ -1,4 +1,5 @@
-//  program to simulate CPU Scheduling Algorithms: FCFS and SJF:-
+//  program to simulate CPU Scheduling Algorithms: FCFS and SJF: (Using Switch Case):-
+
 
     
 import java.util.*;
@@ -84,4 +85,4 @@ public class Main{
  }
  }
  }
- }
+}
